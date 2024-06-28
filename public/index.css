@@ -57,6 +57,13 @@ ul > li {
   color: rgba(0, 0, 0, 0.8);
   cursor: pointer;
 }
+.selecioneRifa:hover{
+  background-color: rgba(0, 0, 0, 0.8);
+  border: 1px solid #FFF;
+  color: #fff;
+  transition: all ease-in-out 0.3s;
+  cursor: pointer;
+}
 /* link que redireciona para a seleção de quantidade de rifas a comprar */
 .itemRif{ 
   width: 90%; 
